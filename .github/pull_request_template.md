@@ -1,9 +1,9 @@
-#PHP-CS: ...
+# PHP-CS: ...
 
-##Introduction
+## Introduction
 ...
 
-##Proposal with an example usage
+## Proposal with an example usage
 ...
 
 ```php
@@ -12,10 +12,10 @@
     // Provide a valid usage example.
 ```
 
-##Benefits
+## Benefits
 
 * Item 1
 * ...
 
-##Proposed Voting Choices
+## Proposed Voting Choices
 ...
