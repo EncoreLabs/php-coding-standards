@@ -21,3 +21,15 @@ array('value');
 // Now
 ['value'];
 ```
+
+### declare_strict_types = true
+
+Force strict types declaration in all files. Requires PHP >= 7.0.
+
+Risky rule: forcing strict types will stop non strict code from working.
+
+```php
+<?php
+
+declare(strict_types=1);
+```
