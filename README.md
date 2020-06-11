@@ -43,3 +43,19 @@ Risky rule: forcing strict types will stop non strict code from working.
 
 declare(strict_types=1);
 ```
+
+### Class (Namespace) naming
+
+Use camel case for each separate semantic unit, including abbreviation, e.g.:
+XI -> Xi
+Data Transfer Object -> DTO -> Dto
+
+Classes:
+- TT API -> TtApi
+- US Tax -> UsTax
+NOTE: we still have E.API that usually understood as Entertain API that's why EApi
+
+Namespases:
+- App\Dto\Item
+- App\Gateway\TtApi
+
